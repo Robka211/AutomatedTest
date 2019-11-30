@@ -1,0 +1,12 @@
+
+*.exe
+*.config
+*.pdb
+*.dll
+*.xml
+obj/
+packages/
+bin/
+v15/
+*.cache
+*.CopyComplete
